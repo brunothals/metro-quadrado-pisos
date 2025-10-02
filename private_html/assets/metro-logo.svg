@@ -1,0 +1,21 @@
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @font-face{font-family:'Inter';src:local('Inter'), local('Arial');}
+      .word{font-family:Inter, Arial, Helvetica, sans-serif;font-weight:800;letter-spacing:1px;}
+    </style>
+  </defs>
+  <!-- Background transparent -->
+  <!-- Badge -->
+  <g transform="translate(10,10)">
+    <path d="M80 0 L150 40 L150 120 L80 160 L10 120 L10 40 Z" fill="#F6C000" stroke="#0F2B5C" stroke-width="10" stroke-linejoin="round"/>
+    <!-- Monogram M -->
+    <path d="M35 115 L35 45 L63 85 L80 60 L97 85 L125 45 L125 115 L105 115 L105 83 L92 100 L80 82 L68 100 L55 83 L55 115 Z"
+          fill="#0F2B5C"/>
+  </g>
+  <!-- Wordmark -->
+  <g transform="translate(190,42)">
+    <text x="0" y="50" class="word" font-size="56" fill="#F6C000">METRO</text>
+    <text x="0" y="110" class="word" font-size="48" fill="#FFFFFF">QUADRADO</text>
+  </g>
+</svg>
